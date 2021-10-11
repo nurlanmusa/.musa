@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[News Analysis](https://colab.research.google.com/drive/1MfhscJ1tw4a0Zs7GYLk9t-AOQiCLsoZQ#scrollTo=tdlvDaZwrkt4)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
