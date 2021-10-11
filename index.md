@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Mini Project
 
 [News Analysis](https://colab.research.google.com/drive/1MfhscJ1tw4a0Zs7GYLk9t-AOQiCLsoZQ#scrollTo=tdlvDaZwrkt4)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+ #<img src="images/dummy_thumbnail.jpg?raw=true"/>
+ In this
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
