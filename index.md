@@ -23,7 +23,7 @@ The project has been done within master studies, in Business Analytics course. P
 
 [Notebook](https://colab.research.google.com/drive/1y7DyYHWc1oIhYZol0zVtGaz5YDVOxuL1?usp=sharing)
 
-The dataset contains up-to-date information about tech company fundings across the globe. The data attributes include - company name, website, funding stage, funding date, funding amount and the region. The Random Forest and Linear Regression models have been utilized. 
+The dataset contains up-to-date information about tech company fundings across the globe. The data attributes include - company name, website, funding stage, funding date, funding amount and the region. The Random Forest and Linear Regression models have been utilized. The project is in progress. 
 
 
 ---
@@ -32,9 +32,7 @@ The dataset contains up-to-date information about tech company fundings across t
 
 [Notebook](https://colab.research.google.com/drive/1JZsZxfIdv7LcxXN3I2G4a-izoAXze8O7?usp=sharing)
 
-Logistic regression, Business Analytics classes.
-
-
+ The project has been done within Business Analytics course at Abo Akademi. It includes three different tasks, datasets and models. For each of them exploratory data analysis and preparation has been done, and Logistic Regression model has been used. 
 
 
 
