@@ -10,6 +10,15 @@
 [The report of project can be found here.](https://docs.google.com/document/d/1gSXlsPwPgHFjK_dkqv55UP6zu3vig6GegVSLw0SSSzI/edit?usp=sharing)
 
 ---
+### Community detection
+
+[Notebook](https://colab.research.google.com/drive/17T2BDHUyRxihFr5DZvQ6W1K9HWN1x4Og?usp=sharing)
+
+The aim of the project was to define communities of some news agencies for the purpose of validating the news or twits. In this project the network data of some news agencies has been collected by using Twitter API. Thereafter, the community detection have been applied by relying on modularity. As a result, 13 different communities have been detected, among which 3 should be considered main communities. The report of the project can be found below, in which problem, motivation, implementation and finding can be found.
+
+[The report](https://docs.google.com/document/d/1JkZYuedGYEF6l10dgRVO3sL_6QjlUmbrqo-dZRuJJQ8/edit?usp=sharing)
+
+---
 ### Data Analysis and Data preparation
 
 [Notebook](https://colab.research.google.com/drive/1rnvnCB3J-Xp1ytvEAn_DBdnMyGbQBqJm?usp=sharing)
@@ -19,20 +28,20 @@ The project has been done within master studies, in Business Analytics course. P
 
 ---
 
+### Classification model
+
+[Notebook](https://colab.research.google.com/drive/1JZsZxfIdv7LcxXN3I2G4a-izoAXze8O7?usp=sharing)
+
+ The project has been done within Business Analytics course at Abo Akademi. It includes three different tasks, datasets and models. For each of them exploratory data analysis and preparation has been done, and Logistic Regression model has been used. 
+ 
+---
+
 ### Funding Prediction (In progress)
 
 [Notebook](https://colab.research.google.com/drive/1y7DyYHWc1oIhYZol0zVtGaz5YDVOxuL1?usp=sharing)
 
 The dataset contains up-to-date information about tech company fundings across the globe. The data attributes include - company name, website, funding stage, funding date, funding amount and the region. The Random Forest and Linear Regression models have been utilized. The project is in progress. 
 
-
----
-
-### Classification model
-
-[Notebook](https://colab.research.google.com/drive/1JZsZxfIdv7LcxXN3I2G4a-izoAXze8O7?usp=sharing)
-
- The project has been done within Business Analytics course at Abo Akademi. It includes three different tasks, datasets and models. For each of them exploratory data analysis and preparation has been done, and Logistic Regression model has been used. 
 
 
 
