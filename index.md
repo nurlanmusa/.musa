@@ -23,7 +23,7 @@ The aim of the project was to define communities of some news agencies for the p
 
 [Notebook](https://colab.research.google.com/drive/1rnvnCB3J-Xp1ytvEAn_DBdnMyGbQBqJm?usp=sharing)
 
-The project has been done within master studies, in Business Analytics course. Project consists of analysis and prepation of datasets for the modelling, including feature selection. 
+The project has been done within master studies, in Business Analytics course. Project consists of analysis and prepation of datasets for the modelling, including feature selection. The projects, on which data preparation and analysis has been conducted, include credits and movies datasets. 
 
 
 ---
@@ -32,7 +32,7 @@ The project has been done within master studies, in Business Analytics course. P
 
 [Notebook](https://colab.research.google.com/drive/1JZsZxfIdv7LcxXN3I2G4a-izoAXze8O7?usp=sharing)
 
- The project has been done within Business Analytics course at Abo Akademi. It includes three different tasks, datasets and models. For each of them exploratory data analysis and preparation has been done, and Logistic Regression model has been used. 
+ The project has been done within Business Analytics course at Abo Akademi. It includes three different tasks and data sets. For each of them exploratory data analysis and preparation has been done, and Logistic Regression model has been used. 
  
 ---
 
